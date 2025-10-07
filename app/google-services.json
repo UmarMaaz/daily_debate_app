@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "797879842234",
-    "firebase_url": "https://debate-app-5f61e-default-rtdb.firebaseio.com",
-    "project_id": "debate-app-5f61e",
-    "storage_bucket": "debate-app-5f61e.firebasestorage.app"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:797879842234:android:e899a3c5f4803652d55983",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.debate_app"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "797879842234-sclv86mtslng90nm34lqdo1uqbuqedho.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.debate_app",
-            "certificate_hash": "56c9a7648a51021b4009239292f4edce73b8c39a"
+            "package_name": "",
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "797879842234-sbp8978o7p1ababgslsckl9ju2bac53s.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBWA2VrAxvhLvqtetrTynE0-jVA6YUrSgg"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "797879842234-sbp8978o7p1ababgslsckl9ju2bac53s.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
